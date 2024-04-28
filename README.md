@@ -1,1 +1,2 @@
-# kapsent-urlspammer
+# URL SPAMMER 0.1 MS FALAN
+- KURULUM ÇOK BASİT
