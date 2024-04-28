@@ -1,0 +1,7 @@
+requests==2.26.0
+httpx==0.23.3
+websocket==0.2.1
+colorama==0.3.9
+tls_client==0.2.1
+pystyle==2.9
+colorama==0.3.9
